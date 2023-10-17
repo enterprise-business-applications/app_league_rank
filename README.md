@@ -38,9 +38,7 @@ command-line application to calculate league rank table for a one-on-one/team-vs
 # build and test
 ```shell
 # from root directory
-sbt clean update compile
-sbt test
-sbt assembly
+make
 ```
 
 # usage
