@@ -1,4 +1,4 @@
-name: CI
+name: app_league_rank
 
 on:
   push:
